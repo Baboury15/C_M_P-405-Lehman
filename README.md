@@ -1,4 +1,7 @@
 # C_M_P-405-Lehman college
+
+PS: This code is here to help you understand a similar project or maybe the same type of problem but not to COPY AND PASTE !! However if you do so it's in your own cost . ;).
+
 In this project i was challenge to create a datagramSocket communication chat window in a local network using UDP .
 
 
